@@ -2,7 +2,7 @@
 `Técnico em Desenvolvimento de Sistemas | Estudante de Sistemas para Internet | PCD (TEA Nível 1)` 
 
 ## 👨‍💻 Sobre Mim  
-Formado como **Técnico em Desenvolvimento de Sistemas** pela ETEC São Roque e atualmente cursando **Sistemas para Internet** na FATEC São Roque (1/6).  
+Formado como **Técnico em Desenvolvimento de Sistemas** pela ETEC São Roque e atualmente cursando **Sistemas para Internet** na FATEC São Roque (2/6).  
 
 ## 🛠 Tecnologias que Estou Aprendendo
 
